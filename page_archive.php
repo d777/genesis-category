@@ -1,15 +1,15 @@
 <?php
 /**
- * Template Name: My Category Archive
+ * Template Name: My Category Archive - NOW IT WORKS!
  */
 get_header(); ?>
 
 
 <?php genesis_before_content_sidebar_wrap(); ?>
-<div id="content-sidebar-wrap">
+<div class="content-sidebar-wrap">
 	
 	<?php genesis_before_content(); ?>
-	<div id="content">
+	<div class="content">
 	
 		<?php genesis_before_loop(); ?>
 		<div class="post entry">
