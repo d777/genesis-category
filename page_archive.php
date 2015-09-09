@@ -14,7 +14,7 @@ get_header(); ?>
 <?php genesis_before_loop(); ?>
 <div class="post entry">
 
-<!-page_archive.php ->
+<!----page_archive.php --->
 <h1 class="entry-title"><?php _e("Article Archive", 'genesis'); ?></h1>
 
 <div class="entry-content">
